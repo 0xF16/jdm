@@ -9532,6 +9532,16 @@
     },
 
     {
+        "name": "Goodie",
+        "url": "https://goodie.pl/kontakt",
+        "difficulty": "medium",
+        "notes_pl": "Będąc zalogowanym (rekomendowane, ponieważ wypełnia niektóre dane w formularzu) lub niezalogowanym, idź na stronę kontaktu i podaj swoje dane. Przy \"Temacie wiadomości\" wybierz \"Moje dane osobowe\/ Usunięcie danych osobowych\", przy \"Operacja na danych którą chcę wykonać\" wybierz \"Chcę usunięcia moich danych (usunięcie konta)\", a następnie w \"Jakich danych ma dotyczyć operacja\" wybierz \"Moich danych jako użytkownika\" i kliknij \"Wyślij wiadomość\". W odpoweidzi w przeciągu kilku minut otrzymasz maila w którym musisz autoryzować usunięcie konta poprzez kliknięcie linka (w terminie do 7 dni). Po potwierdzeniu usunięcia przez kliknięcie, otrzymasz kolejnego maila, że do 30 dni twoje konto zostanie usunięte.",
+        "domains": [
+            "goodie.pl"
+        ]
+    },
+
+    {
         "name": "Goodlord",
         "url": "https://www.goodlord.co/privacy-policy",
         "difficulty": "hard",
